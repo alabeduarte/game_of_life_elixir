@@ -1,0 +1,5 @@
+# GameOfLife
+
+```
+$ mix test
+```
